@@ -9,7 +9,5 @@
 
  Follow me on twitter [@Ayo-Ma](https://twitter.com/jizxyj) for more java tips and tricks😉.
 
- Did you know: James Gosling, the creator of Java, was inspired by his love for coffee
-
- and chose the name while sipping the beverage that why the java logo is loke that of a cofee .
+ Did you know: The name Java comes from Java coffee of Indonesia.
 
